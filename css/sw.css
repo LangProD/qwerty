@@ -1,0 +1,40 @@
+
+.less hr {
+    border: none; 
+    background-color: rgb(20, 8, 128); 
+    height: 2px; 
+    
+   }
+   #dep{
+   color: navy; 
+    border-left: 1px solid navy; 
+    padding-left: 15px; 
+   }
+
+   img{
+    filter: contrast(90%); ;
+    object-fit: contain;
+    display: block;
+    
+
+    }
+    
+    cite{
+        filter: brightness(80%);
+        background-color:rgb(216, 29, 144);
+        color: rgb(255, 255, 255);
+    }
+     #foot{
+    text-align: right;
+    font-weight: bold;
+    }
+    #fz{
+        font-size: 26px;
+        font-style: oblique;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .pointer p{
+        font-size: 18px;
+        font-stretch: condensed;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }

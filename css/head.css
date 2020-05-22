@@ -1,0 +1,37 @@
+.overlay{
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(244, 244, 244, 0.79);
+   }
+   .header{
+    background-image: url('../slide/F5DcJ.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 10px 0;
+   }
+   .description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+}
+.container {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  .dropdown-item{
+      color: rgb(175, 172, 172);
+      
+  }
+  .dropdown:hover > .dropdown-menu { 
+    display: block; 
+    background-color: rgb(70, 70, 70);
+    
+} 
+
